@@ -22,7 +22,7 @@ E este é resultado do clone
 
 ### Instalação
 
-Para instalá-las abra o terminal do seu computador, navegue até a pasta raiz do projeto e digite o comando abaixo para que seja instalado as dependências do projeto:
+Para utilizar, primeiro abra o terminal do seu computador, navegue até a pasta raiz do projeto e digite o comando abaixo para que seja instalado as dependências do projeto:
 
 ```
 npm install
